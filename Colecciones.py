@@ -5,3 +5,16 @@
 vocales = ("a", "o", "i")
 consonates = ("b","c","d")
 
+PRUEBA
+DSA
+
+FalseFA
+SF
+AssertionErrorF
+AssertionError
+ChildProcessErrorS
+X
+
+StopAsyncIteration
+DeprecationWarningA
+S

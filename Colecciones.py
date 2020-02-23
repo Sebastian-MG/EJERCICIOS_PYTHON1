@@ -4,3 +4,14 @@
 
 vocales = ("a", "o", "i")
 consonates = ("b","c","d")
+sdadas
+gxvc
+
+vxc
+gds
+
+ds
+vd
+sum(dv
+    dv
+dv)

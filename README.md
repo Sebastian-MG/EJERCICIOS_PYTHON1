@@ -33,4 +33,25 @@ la lista en la que se encuentra el máximo valor.
 la una matriz de 5x5, la matriz se debe llenar solicitando los datos al usuario. 
 
 
-### 
+###  61. Escribir un programa que lea una frase introducida desde el teclado y la escriba al revés. 
+
+### 63. Decir si una frase es o no un palíndromo, es decir, si se lee igual de derecha a a izquierda
+
+### 70. Escribir un programa que mediante funciones obtenga la distancia entre dos puntos que se encuentran en el plano a partir de la lectura de sus coordenadas.
+
+
+### 72.  Escribir un programa que transforme números entre 0 y 999 a números romanos (usar funciones).
+
+
+### 75. Escribir un programa que calcule la potencia de un numero usando recursividad.
+
+
+### 76. Escriba un programa que calcule el factorial de un numero usando recursividad.
+
+### 81. . Crear un módulo de funciones aritméticas que realicen las operaciones de suma, resta, multiplicación, división y potencia de enteros, escribir un programa que importe este módulo y use estas funciones para operar con números capturados desde el teclado.
+
+
+### 82.   Crear un módulo que permita validar un número según la base en la cual este expresado, las bases validas deben ser 2, 8, 10 y 16.
+
+
+###  

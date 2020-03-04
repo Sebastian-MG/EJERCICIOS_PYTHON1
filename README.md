@@ -70,3 +70,8 @@
 ### 91. Modifique el ejercicio anterior para que el conteo se haga hacia atrás desde el tiempo leído hasta cero.
 
 [respuesta](https://github.com/Sebastian-MG/EJERCICIOS_PYTHON1/blob/master/91.py)
+
+
+### 93. . Escribir un programa que implemente un calendario perpetuo, es decir, que dado una fechaen formato mes, día y año le retorne al usuario el día de la semana que corresponde para esta fecha.
+
+[respuesta](https://github.com/Sebastian-MG/EJERCICIOS_PYTHON1/blob/master/93_cal.py)

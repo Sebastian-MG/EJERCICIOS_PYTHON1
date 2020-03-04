@@ -1,6 +1,6 @@
 # EJERCICIOS_PYTHON1
 ### 7. Escribir un programa que calcule el volumen de una esfera de radio = r volumen de la esfera = 4/3 * PI * radio3
-
+[respuesta] (https://github.com/Sebastian-MG/EJERCICIOS_PYTHON1/blob/master/7_esfera.py)
 
 ### 12. Escribir un programa que calcule el número de horas, minutos y segundos que hay en un valor x de segundos indicados por el usuario.
 

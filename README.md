@@ -44,4 +44,9 @@
 ### 82.   Crear un módulo que permita validar un número según la base en la cual este expresado, las bases validas deben ser 2, 8, 10 y 16.
 
 
-###  
+### 86. Escribir un programa que escriba la lista de caracteres ASCII dentro de un archivo de texto. 
+
+
+
+### 91. Modifique el ejercicio anterior para que el conteo se haga hacia atrás desde el tiempo leído hasta cero.
+
